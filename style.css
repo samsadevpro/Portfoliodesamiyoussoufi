@@ -61,3 +61,18 @@ main p {
   line-height: 1.5;
   color: #555;
 }
+
+#accueil {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  background-color: #e6e6e6;
+}
+
+#accueil h1 {
+  font-size: 42px;
+  color: #222;
+  letter-spacing: 1.5px;
+}
