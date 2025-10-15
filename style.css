@@ -76,3 +76,7 @@ main p {
   color: #222;
   letter-spacing: 1.5px;
 }
+
+#profil p {
+  margin-bottom: 15px;
+}
